@@ -61,8 +61,6 @@ This is the structure of the Git repository and its contents:
 
 # Project Structure
 
-# Project Structure
-
 - **project-root/**
   - `README.md` - Project overview and instructions
   - **ERD/** - Folder for Entity Relationship Diagram
