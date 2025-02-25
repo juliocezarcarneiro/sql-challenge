@@ -66,7 +66,7 @@ This is the structure of the Git repository and its contents:
 - **project-root/**
   - `README.md` - Project overview and instructions
   - **ERD/** - Folder for Entity Relationship Diagram
-    - `erd_image.png` - Your ERD image
+    - `erd_image.png`
   - **sql/** - Folder for SQL-related files
     - `create_tables.sql` - SQL file with table schema
     - `queries.sql` - SQL file with queries for analysis
