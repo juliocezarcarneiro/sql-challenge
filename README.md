@@ -59,9 +59,7 @@ Development. Additionally, aggregate functions were used to analyze last name fr
 ## Folder Structure
 This is the structure of the Git repository and its contents:
 
-# Project Structure
-
-- **project-root/**
+- **sql-challenge/**
   - `README.md` - Project overview and instructions
   - **ERD/** - Folder for Entity Relationship Diagram
     - `erd_image.png`
