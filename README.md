@@ -61,24 +61,24 @@ Development. Additionally, aggregate functions were used to analyze last name fr
 ## Folder Structure
 This is the structure of the Git repository and its contents:
 
-/project-root
-│
-├── /README.md                     # Project overview and instructions
-│
-├── /ERD                            # Folder for Entity Relationship Diagram
-│   └── ERD_image.png               # Your ERD image
-│   └── ERD.sql
-├── /sql                            # Folder for SQL-related files
-│   ├── create_tables.sql           # SQL file with table schema
-│   ├── queries.sql                 # SQL file with queries for analysis
-│
-├── /data                           # Folder for the CSV files
-│   └── departments.csv             # CSV file for departments data
-│   └── titles.csv                  # CSV file for titles data
-│   └── employees.csv               # CSV file for employees data
-│   └── dept_emp.csv                # CSV file for dept_emp data
-│   └── dept_manager.csv            # CSV file for dept_manager data 
-│   └── salaries.csv                # CSV file for salaries data
+## /project-root
+
+- **/LICENSE.txt**
+- **/README.md**
+
+- **/ERD**
+  - **ERD_image.png**: Image showing the Entity Relationship Diagram for the database schema.
+  - **ERD.sql**: SQL script used to create the tables and relationships shown in the ERD.
+
+- **/EmployeeSQL**
+  - **pewlett_hackard_db**: SQL file containing the schema for creating tables in the database and queries for data analysis.
+  - **/data**
+    - **departments.csv**: Contains data on departments.
+    - **titles.csv**: Contains data on job titles.
+    - **employees.csv**: Contains data on employees.
+    - **dept_emp.csv**: Contains data on the department and employee assignments.
+    - **dept_manager.csv**: Contains data on department managers.
+    - **salaries.csv**: Contains salary data for employees.
 
 ## References
 
